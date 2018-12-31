@@ -9,3 +9,4 @@ it's ok
 test stash
 ## test pull
 oh no
+bad
